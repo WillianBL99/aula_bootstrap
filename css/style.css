@@ -1,0 +1,31 @@
+a {
+    font-size: 20px;
+}
+
+.posts-cotainer{
+    margin-top: 35px;
+}
+
+.posts-row {
+    justify-content: center;
+}
+
+.post_band {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 75px;
+}
+
+.posts-row img{
+    height: 200px;
+}
+
+.margin_title {
+    margin-bottom: 60px;
+}
+
+footer {
+    padding: 8px;
+    background-color: rgb(223, 223, 223);
+}
+
